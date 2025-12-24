@@ -208,4 +208,4 @@ marimo/_lsp/
 __marimo__/
 
 # Input files
-input_files
+*/input_files
